@@ -1,0 +1,3 @@
+TRAIN_NAME :amritsar-delhi_exp
+NAME		:AGE
+arpit		:20
